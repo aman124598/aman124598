@@ -9,7 +9,7 @@
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=aman124598&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/aman124598)
-[![Twitter Follow](https://img.shields.io/twitter/follow/nobita20658735?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/stranzer)
+[![Twitter Follow](https://img.shields.io/twitter/follow/stranzerzz?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/stranzerzz)
 [![GitHub followers](https://img.shields.io/github/followers/aman124598?logo=GitHub&style=for-the-badge&color=6C63FF)](https://github.com/aman124598)
 
 </div>

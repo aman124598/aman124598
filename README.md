@@ -1,115 +1,168 @@
-<h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">A passionate Frontend Developer from India 🇮🇳</h3>
+<div align="center">
+  
+# Hey there! 👋 I'm **Aman**
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+### 🚀 Full Stack Developer from India 🇮🇳
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=stranger1298&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Passionate+Full+Stack+Developer;Building+Beautiful+Web+Experiences;React+%7C+Node.js+%7C+MongoDB;Open+Source+Enthusiast+%F0%9F%92%9C;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="left">
-  <a href="https://twitter.com/nobita20658735" target="blank">
-    <img src="https://img.shields.io/twitter/follow/nobita20658735?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
+<br/>
 
----
+[![Profile Views](https://komarev.com/ghpvc/?username=aman124598&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/aman124598)
+[![Twitter Follow](https://img.shields.io/twitter/follow/nobita20658735?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/stranzer)
+[![GitHub followers](https://img.shields.io/github/followers/aman124598?logo=GitHub&style=for-the-badge&color=6C63FF)](https://github.com/aman124598)
 
-### 🧠 About Me
-
-- 🔭 I'm currently working on **improving my development skills**
-- 🌱 I'm learning **Java, CSS, and JavaScript**
-- 🤝 I'm looking for help with **GSoC and Open Source contributions**
-- 📫 Reach me at: **amanraj89969@gmail.com**
-- ⚡ Fun fact: _I listen to music all the time, but I still don't have my own playlist!_
+</div>
 
 ---
 
-### 🤝 Connect with Me
+## 🧑‍💻 About Me
 
-<p align="left">
-  <a href="https://twitter.com/nobita20658735" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/aman-83169b204/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+```javascript
+const aman = {
+  pronouns: "He/Him",
+  location: "India 🇮🇳",
+  role: "Full Stack Developer",
 
----
+  currentFocus: "Improving my development skills & building cool projects",
 
-### 🛠️ Languages and Tools
+  learning: {
+    languages: ["Java", "JavaScript", "TypeScript"],
+    frameworks: ["React", "Next.js", "Node.js"],
+    other: ["System Design", "Data Structures & Algorithms"],
+  },
 
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-</p>
+  interests: ["Web Development", "Open Source", "UI/UX Design"],
+
+  goals: {
+    shortTerm: "Contribute to GSoC & Open Source projects",
+    longTerm: "Build impactful products & lead tech teams",
+  },
+
+  funFact:
+    "I listen to music all the time, but I still don't have my own playlist! 🎵",
+
+  motto: "Code. Learn. Repeat. 💻",
+};
+```
 
 ---
 
-### 📊 GitHub Stats
+## 🎯 What I'm Currently Up To
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stranger1298&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stranger1298&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stranger1298&theme=tokyonight" alt="GitHub Streak" />
-</p>
+- 🔭 **Working on:** Building responsive & interactive web applications
+- 🌱 **Learning:** Advanced JavaScript, React ecosystem & System Design
+- 👯 **Looking to collaborate on:** Open Source projects & GSoC
+- 💬 **Ask me about:** React, Node.js, MongoDB, JavaScript, Full Stack Development
+- **How to reach me:** [amanraj89969@gmail.com](mailto:amanraj89969@gmail.com)
+- ⚡ **Fun fact:** I can spend hours debugging CSS but still can't make a playlist! 😄
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=stranger1298&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 👨‍💻 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚛️ Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### 🗄️ Databases & Cloud
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+### 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
-### 🐍 Contribution Graph
+## 📊 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stranger1298/stranger1298/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stranger1298/stranger1298/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/stranger1298/stranger1298/output/github-contribution-grid-snake.svg" />
-</picture>
+<div align="center">
+  
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=aman124598&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+
+</div>
+
+<div align="center">
+  
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman124598&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <b>💻 Happy Coding! 🚀</b>
-</p>
+## 📈 Contribution Graph
+
+<div align="center">
+  
+[![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aman124598&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/aman124598)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always excited to connect with fellow developers and tech enthusiasts! Feel free to reach out for collaborations, discussions, or just a friendly chat about code.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-83169b204/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nobita20658735)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanraj89969@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aman124598)
+
+<br/>
+
+### 💡 _"First, solve the problem. Then, write the code."_ — John Johnson
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💜 Thanks for stopping by!
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
+
+</div>

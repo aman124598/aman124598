@@ -110,21 +110,6 @@ const aman = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=aman124598&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-
-</div>
-
-<div align="center">
-  
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman124598&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
